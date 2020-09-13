@@ -1,4 +1,6 @@
 # Election_Analysis
+<img width="387" alt="Screen Shot 2020-09-13 at 2 01 07 PM" src="https://user-images.githubusercontent.com/69806770/93025161-bc9f2780-f5c9-11ea-94af-2d98b03ece20.png">
+
 ## Overview of Election Audit
 Tom is a Colorado board of elections member that is doing an audit of the tabulated results for an election in Colorado. In this project, we are assisting Tom by conducting an analysis to report on the total number of votes, the number of votes for each candidate, the percentage of votes for each candidate, the winning candidate, the number of votes for each county, the percentage of votes in each county and the largest county turn out. 
 ## Election Results
